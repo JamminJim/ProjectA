@@ -2,3 +2,4 @@
 Sample TypeScript Project
 Added a new line
 Made a change
+Making a new change
